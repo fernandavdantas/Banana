@@ -52,6 +52,10 @@ body {
     margin-bottom: 24px;
 }
 
+.price-period {
+    font-size: 0.75em;
+}
+
 .card-content {
     margin-bottom: 32px;
 }
